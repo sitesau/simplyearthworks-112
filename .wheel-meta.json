@@ -1,0 +1,22 @@
+{
+  "wheel_id": 869,
+  "structure": "umbrella",
+  "slug": "simplyearthworks-112",
+  "project": "earthmoving-adelaide-glossary-20b57847b5e76a4d69af3c0c34a9f623b",
+  "parent_t1_ref": "simplyearthworks-155",
+  "node_role": "feeder",
+  "money_target": "simplyearthworks.com.au",
+  "primary_kw": "earthmoving adelaide glossary",
+  "intended_url": "http://earthmoving-adelaide-glossary-20b57847b5e76a4d69af3c0c34a9f623b.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "05112e54796eddb4",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/earthmoving-adelaide-budget-tips-0faa444463db679b5c554e9cf0b968/",
+      "anchor": "this earthmoving adelaide budget tips guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
